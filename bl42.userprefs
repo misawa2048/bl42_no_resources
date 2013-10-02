@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\sceneMain\recordScript.cs">
+    <Files>
+      <File FileName="Assets\scripts\mole.cs" Line="52" Column="1" />
+      <File FileName="Assets\scripts\sceneMain\recordScript.cs" Line="35" Column="48" />
+      <File FileName="Assets\scripts\buttonMessage.cs" Line="30" Column="40" />
+      <File FileName="Assets\scripts\sceneMain\settingsScript.cs" Line="21" Column="1" />
+      <File FileName="Assets\scripts\sceneMain\resultScript.cs" Line="42" Column="14" />
+      <File FileName="Assets\scripts\gameScript.cs" Line="45" Column="33" />
+      <File FileName="Assets\scripts\scoreGauge.cs" Line="8" Column="31" />
+      <File FileName="Assets\scripts\moleController.cs" Line="86" Column="11" />
+      <File FileName="Assets\scripts\loadButton.cs" Line="6" Column="1" />
+      <File FileName="Assets\scripts\sceneMain\titleScript.cs" Line="14" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\work\abj\fromMatsuoka\unity\bl42\Assets\scripts\scoreGauge.cs" line="39" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
